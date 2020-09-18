@@ -254,3 +254,4 @@ Our team consists of graduate and undergraduate students from Vanderbilt Univers
 * [Tim Darrah](https://www.linkedin.com/in/timothydarrah/)
 * [Shreyas Ramakrishna](https://www.linkedin.com/in/shreyasramakrishna/)
 * [Tim Krentz](https://www.linkedin.com/in/tim-krentz-15042585/)
+* [Abdul-Latif Gbadamoshie](https://www.linkedin.com/in/abdul-latif-gbadamoshie/)
